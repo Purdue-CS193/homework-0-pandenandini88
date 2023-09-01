@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Nandini Pande's First CS193 Homework
+
+- I like the enthuiasm of the instructors
+- I like the fun icebreakers :)
+- I love how low stress and relaxed the class is
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
